@@ -1,4 +1,9 @@
+
 # CoreEntities
+
+Read this documentation:
+
+https://github.com/rlujano/SpaceNews/blob/main/README.md
 
 [![CI Status](https://img.shields.io/travis/Rene Lujano/CoreEntities.svg?style=flat)](https://travis-ci.org/Rene Lujano/CoreEntities)
 [![Version](https://img.shields.io/cocoapods/v/CoreEntities.svg?style=flat)](https://cocoapods.org/pods/CoreEntities)
